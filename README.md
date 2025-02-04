@@ -21,7 +21,7 @@ Attribute Selection and Classification](https://hal.science/hal-00503951/documen
 11. Livro Outlier Analysis de Charu C. Aggarwal
 12. [How to Identify Outliers in your Data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
 13. [How to Make Your Machine Learning Models Robust to Outliers](https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.html)
-14. 
+
 
 ### Bayesian Learning
 1. Livro Thoughtful Machine Learning de Matthew Kirk - capitulo 4
@@ -104,5 +104,3 @@ Attribute Selection and Classification](https://hal.science/hal-00503951/documen
 8. Livro Machine Learning Algorithms de Giuseppe Bonaccorso - capitulo DBSCAN
 9. [How DBSCAN works and why should we use it?](https://medium.com/towards-data-science/how-dbscan-works-and-why-should-i-use-it-443b4a191c80)
 9. [Machine Learning – DBSCAN](https://algorithmicthoughts.wordpress.com/2013/05/29/machine-learning-dbscan/)
-
-### 
